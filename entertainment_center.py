@@ -2,7 +2,7 @@ import fresh_tomatoes
 import json
 import media
 
-# open json file 
+# open json file
 with open("movie_list.json") as movie_file:
     movie_data = json.load(movie_file)
 
@@ -12,7 +12,5 @@ movie_list = []
 for movie in movie_data:
     movie_list.append(media.Movie(movie))
 
-# create the html page    
+# create the html page
 fresh_tomatoes.open_movies_page(movie_list)
-
-
