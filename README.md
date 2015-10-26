@@ -1,6 +1,6 @@
 Fresh Tomatoes!
 ======
-**Fresh Tomatoes!** reads movie info from a json file and the movie info in the browser.
+**Fresh Tomatoes!** reads movie info from a json file and displays it in a browser.
 A delightful movie trailer plays when you click on a movie.
 
 ## Dependencies
@@ -19,7 +19,7 @@ This application was developed using Python 2.7. It may work in other versions, 
 
 ## Credits
 
-Base code was provided by Udacity, however this version of my app is a significant refactor of that base code. Udacity is simply udacious in their complete and absolute udaciousness! Long live Udacity!
+Base code was provided by Udacity, but this version is a significant refactor of that base code. Doing the project was fun -- Udacity is simply udacious in their complete and absolute udaciousness! Long live Udacity!
 
 ## License
 Licensed under the MIT License (MIT)
